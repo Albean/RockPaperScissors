@@ -2,4 +2,4 @@ RockPaperScissors
 =================
 
 Alpha:
-Super Simple andoid , rock paper scissors game.
+Super Simple android , rock paper scissors game.
